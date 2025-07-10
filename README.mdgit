@@ -1,0 +1,1 @@
+"# toolslist"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Aashutosh7607/toolslist.gitgit push -u origin main
